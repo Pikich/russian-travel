@@ -1,0 +1,21 @@
+.cover__overlay {
+max-width: 1184px;
+height: 740px;
+margin: 0;
+background: #2A2C2F;
+opacity: 0.3;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover__overlay {
+        max-width: 1024px;
+        min-height: 640px;
+    }
+} 
+
+@media screen and (max-width: 1023px) {
+    .cover__overlay {
+        max-width: 768px;
+        min-height: 480px;
+    }
+} 

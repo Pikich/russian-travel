@@ -1,5 +1,5 @@
 .lead__image {
-    background-image: url(/images/__image.svg);
+    background-image: url(../../../images/__image.jpg);
     max-width: 984px;
     min-height: 615px;
     background-repeat: no-repeat;

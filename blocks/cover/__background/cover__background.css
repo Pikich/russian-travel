@@ -1,7 +1,7 @@
 .cover__background {
     max-width: 1184px;
     min-height: 740px;
-    background-image: url(/images/__background.jpg);
+    background-image: url(../../../images/__background.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;

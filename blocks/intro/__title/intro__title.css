@@ -1,6 +1,5 @@
 .intro__title {
     max-width: 690px;
-    height: 58px;
     margin: 0;
     font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-style: normal;
@@ -21,7 +20,6 @@
 @media all and (max-width: 767px) {
     .intro__title {
         max-width: 288px;
-        height: 70px;
         font-size: 32px;
         line-height: 35px;
         white-space: normal;
